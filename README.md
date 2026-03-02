@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 Sistema de Recomendações de Rotina Saudável
 
 Projeto em Python que registra hábitos do usuário, analisa a rotina diária e gera recomendações inteligentes baseadas em regras.
@@ -22,3 +23,6 @@ O sistema analisa os hábitos registrados e gera recomendações como:
 ## ▶️ Como executar o projeto
 ```bash
 python main.py
+=======
+# healthy_routine
+>>>>>>> ab8edf54889f6aaca1d4205d5137071bac651e09
