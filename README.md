@@ -24,5 +24,4 @@ O sistema analisa os hábitos registrados e gera recomendações como:
 ```bash
 python main.py
 =======
-# healthy_routine
->>>>>>> ab8edf54889f6aaca1d4205d5137071bac651e09
+
